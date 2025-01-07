@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamil Eniyan T</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Mastering the art of building intelligent systems. Passionate about designing scalable architectures and pushing the boundaries of AI. Focused, relentless, and always learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamil-eniyan&label=Profile%20views&color=0e75b6&style=flat" alt="tamil-eniyan" /> </p>
 
